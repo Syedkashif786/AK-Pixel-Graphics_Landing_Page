@@ -3,10 +3,11 @@ frontend:
   phases:
     preBuild:
       commands:
-        - npm ci
+        - yarn add
     build:
       commands:
-        - npm run build
+        - yarn build
+        
   artifacts:
     baseDirectory: .next
     files:
