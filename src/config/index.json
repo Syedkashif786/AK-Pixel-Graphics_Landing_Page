@@ -1,0 +1,95 @@
+{
+  "company": {
+    "name": "AK Pixel Graphics",
+    "logo": "/assets/images/3.jpeg"
+  },
+  "navigation": [
+    {
+      "name": "Services",
+      "href": "services"
+    },
+
+    {
+      "name": "Clients",
+      "href": "clients"
+    },
+    {
+      "name": "Testimonials",
+      "href": "testimonials"
+    },
+    {
+      "name": "Contact Us",
+      "href": "contact"
+    }
+  ],
+  "mainHero": {
+    "title": "We Design",
+    "title_two": "You Dominate",
+    "title_three": ".",
+    "description": "We offer a wide range of graphic design services to make your brand stand out."
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We deliver exceptional visual solutions tailored to your brand's unique needs. From logo designs to print and digital assets, we create captivating designs that leave a lasting impression.",
+    "heading": "Digital Services",
+    "headingTwo":"Print Services",
+    "digitalServices": [
+      {
+        "name" : "Social Media Design"
+      },
+      {
+        "name": "Ebook Design"
+      },
+      {
+        "name": "Poster Design"
+      },
+      {
+        "name": "Logo Design"
+      },
+      {
+        "name": "Video Thumbnail Design"
+      }
+    ],
+    "printServices" : [
+      {
+        "name" : "Letterhead"
+      },
+      {
+        "name" : "Business Card"
+      },
+      {
+        "name" : "Company Profile"
+      },
+      {
+        "name" : "Brochure"
+      },
+      {
+        "name" : "Restaurant Menu"
+      },
+      {
+        "name" : "Flyer"
+      }
+    ]
+  },
+
+  "clients": {
+    "subtitle": "Our Clients",
+    "description": "From startups to established enterprises, our clients rely on our creative expertise to deliver visually compelling designs that elevate their brand identity and drive engagement."
+  },
+  "testimonials": {
+    "title": "Client Experiences"
+  },
+
+  "contact": {
+    "forms": {
+      "title": "Contact Us"
+    }
+  },
+  "footer":{
+    "socialMedia": {
+      "linkedin": "https://www.linkedin.com/company/ak-pixel-graphics/",
+      "behance": "https://www.behance.net/akpixelgraphics",
+      "instagram": "https://www.instagram.com/akpixelgraphics/"
+    }
+  }
+}
