@@ -2,7 +2,7 @@ import React from 'react';
 import Image from 'next/image';
 
 // import config from '../config/index.json';
-import mainHeroImg from "../../public/assets/images/homepage_design_two.png";
+import mainHeroImg from "../../public/assets/images/homepage_design.png";
 
 const MainHeroImage = () => {
   
